@@ -125,8 +125,8 @@ void test2()
 int main()
 {
   pJoseph head;
- // test1();
-  //test2();
+  test1();
+  test2();
   head = CreateJoseph(10);
   joseph_r(head,2,2);
 //  getchar();
