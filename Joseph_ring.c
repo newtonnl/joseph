@@ -1,3 +1,8 @@
+/* we nee add more useful info
+ * to control joseph
+ *
+ *
+ */
 #include "Joseph_ring.h"
 
 pJoseph CreateJoseph(int n)
