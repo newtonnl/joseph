@@ -6,6 +6,9 @@
 #include <assert.h>
 #include <stdlib.h>
 
+ void test1();
+ void test2();
+
 typedef struct Joseph_ring
 {
   int num;

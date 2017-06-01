@@ -126,14 +126,15 @@ void test2()
   head = CreateJoseph(10);
   joseph_r(head,2,1);
 }
-
+/*
 int main()
 {
   pJoseph head;
   test1();
   test2();
-  head = CreateJoseph(10);
-  joseph_r(head,2,2);
+  head = CreateJoseph(8);
+  joseph_r(head,4,3);
 //  getchar();
   return 0;
 }
+*/
